@@ -49,7 +49,7 @@ These workshops were not just about learning new tools but also about understand
 
 ## Building a Sustainable Future
 <p float="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Wiki_Loves_Living_Heritage_in_Ghana_09.jpg" width="300" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Wiki_Loves_Living_Heritage_in_Ghana_16.jpg" width="300" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Wiki_Loves_Living_Heritage_in_Ghana_15.jpg" width="300" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Wiki_Loves_Living_Heritage_in_Ghana_14.jpg" width="300" /> 
 </p>
@@ -66,7 +66,7 @@ Inclusivity and shared decision-making were at the heart of this program. Divers
 <p float="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Wiki_Loves_Living_Heritage_in_Ghana_09.jpg" width="300" /> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Wiki_Loves_Living_Heritage_in_Ghana_32.jpg" width="300" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Wiki_Loves_Living_Heritage_in_Ghana_16.jpg" width="300" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Wiki_Loves_Living_Heritage_in_Ghana_09.jpg" width="300" /> 
 </p>
 <br>
 
