@@ -73,3 +73,6 @@ Inclusivity and shared decision-making were at the heart of this program. Divers
 As the day wrapped up with an open discussion on future steps, there was a sense of accomplishment and excitement. This pilot program laid a strong foundation for a lasting partnership between the NFB and Wiki Loves Living Heritage Ghana. The journey to preserve and share Ghanaian folklore had just begun.
 
 Stay tuned for more updates as we continue this digital journey, celebrating and preserving the rich cultural heritage of Ghana.
+
+[View Media Files](https://commons.wikimedia.org/wiki/Category:Wiki_Loves_Living_Heritage_in_Ghana)<br>
+[View Project Page](https://meta.wikimedia.org/wiki/Wiki_Loves_Living_Heritage:_Building_Partnerships_for_Knowledge_Equity_in_Ghana)
